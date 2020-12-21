@@ -1,0 +1,101 @@
+{
+  "anos": {
+    "ano19": [
+      { "id": 119, "nome": "OLIMPO", "lat": -18.9118287, "lng": -48.2798463 },
+      {
+        "id": 219,
+        "nome": "SAO PASCHOALL",
+        "lat": -18.8978481,
+        "lng": -48.2643775
+      },
+      {
+        "id": 319,
+        "nome": "BATISTA MINEIRO",
+        "lat": -18.9091761,
+        "lng": -48.2900221
+      },
+      { "id": 419, "nome": "SESI", "lat": -18.91861, "lng": -48.27722 },
+      { "id": 519, "nome": "GABARITO", "lat": -18.8937147, "lng": -48.2521332 }
+    ],
+    "ano18": [
+      { "id": 118, "nome": "OLIMPO", "lat": -18.9118287, "lng": -48.2798463 },
+      { "id": 218, "nome": "SESI", "lat": -18.91861, "lng": -48.27722 },
+      { "id": 318, "nome": "GABARITO", "lat": -18.8937147, "lng": -48.2521332 },
+      {
+        "id": 418,
+        "nome": "SAO PASCHOALL",
+        "lat": -18.8978481,
+        "lng": -48.2643775
+      },
+      {
+        "id": 518,
+        "nome": "BATISTA MINEIRO",
+        "lat": -18.9091761,
+        "lng": -48.2900221
+      }
+    ],
+    "ano17": [
+      { "id": 117, "nome": "OLIMPO", "lat": -18.9118287, "lng": -48.2798463 },
+      {
+        "id": 217,
+        "nome": "RESSURREICAO",
+        "lat": -18.924815,
+        "lng": -48.283926
+      },
+      { "id": 317, "nome": "SESI", "lat": -18.91861, "lng": -48.27722 },
+      {
+        "id": 417,
+        "nome": "BATISTA MINEIRO",
+        "lat": -18.9091761,
+        "lng": -48.2900221
+      },
+      { "id": 517, "nome": "COC" }
+    ],
+    "ano16": [
+      { "id": 116, "nome": "OLIMPO", "lat": -18.9118287, "lng": -48.2798463 },
+      { "id": 216, "nome": "SESI", "lat": -18.91861, "lng": -48.27722 },
+      {
+        "id": 316,
+        "nome": "SAO PASCHOALL",
+        "lat": -18.8978481,
+        "lng": -48.2643775
+      },
+      { "id": 416, "nome": "COC" },
+      { "id": 516, "nome": "NACIONAL", "lat": -18.9313271, "lng": -48.2900706 }
+    ],
+    "ano15": [
+      { "id": 115, "nome": "NACIONAL", "lat": -18.9313271, "lng": -48.2900706 },
+      { "id": 215, "nome": "COC" },
+      { "id": 315, "nome": "GABARITO", "lat": -18.8937147, "lng": -48.2521332 },
+      {
+        "id": 415,
+        "nome": "MAIS POSITIVO",
+        "lat": -18.91154,
+        "lng": -48.28261
+      },
+      {
+        "id": 515,
+        "nome": "MESSIAS PEDREIRO",
+        "lat": -18.91154,
+        "lng": -48.28261
+      }
+    ],
+    "ano14": [
+      { "id": 114, "nome": "NACIONAL", "lat": -18.9313271, "lng": -48.2900706 },
+      {
+        "id": 214,
+        "nome": "BATISTA MINEIRO",
+        "lat": -18.9091761,
+        "lng": -48.2900221
+      },
+      {
+        "id": 314,
+        "nome": "SAO PASCHOALL",
+        "lat": -18.8978481,
+        "lng": -48.2643775
+      },
+      { "id": 414, "nome": "MARISTA ", "lat": -18.9075472, "lng": -48.2509394 },
+      { "id": 514, "nome": "TERESA VALSE", "lat": -18.89758, "lng": -48.26645 }
+    ]
+  }
+}
